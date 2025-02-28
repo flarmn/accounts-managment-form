@@ -365,7 +365,6 @@ button {
   .info-message {
     width: 100%;
     height: auto;
-    xxline-height: auto;
     padding: 5px;
   }
 
